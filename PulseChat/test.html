@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PulseChat Test</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+</head>
+<body>
+    <h2>PulseChat Test</h2>
+
+    <input id="groupInput" placeholder="Group ID" />
+    <input id="userInput" placeholder="User name" />
+    <input id="messageInput" placeholder="Message" />
+    <button onclick="sendMessage()">Send</button>
+    <button onclick="joinGroup()">Join Group</button>
+    <button onclick="leaveGroup()">Leave Group</button>
+
+    <ul id="messagesList"></ul>
+
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+        .withUrl("http://localhost:5130/hubs/chat") // doğru port ve endpoint
+        .build();
+
+
+        connection.on("ReceiveMessage", (user, message) => {
+            const li = document.createElement("li");
+            li.textContent = `${user}: ${message}`;
+            document.getElementById("messagesList").appendChild(li);
+        });
+
+        connection.on("UserJoined", connId => {
+            const li = document.createElement("li");
+            li.textContent = `User joined: ${connId}`;
+            document.getElementById("messagesList").appendChild(li);
+        });
+
+        connection.on("UserLeft", connId => {
+            const li = document.createElement("li");
+            li.textContent = `User left: ${connId}`;
+            document.getElementById("messagesList").appendChild(li);
+        });
+
+        connection.start().catch(err => console.error(err));
+
+        function sendMessage() {
+            const group = document.getElementById("groupInput").value;
+            const user = document.getElementById("userInput").value;
+            const message = document.getElementById("messageInput").value;
+            connection.invoke("SendMessage", group, user, message);
+        }
+
+        function joinGroup() {
+            const group = document.getElementById("groupInput").value;
+            connection.invoke("JoinGroup", group);
+        }
+
+        function leaveGroup() {
+            const group = document.getElementById("groupInput").value;
+            connection.invoke("LeaveGroup", group);
+        }
+
+            connection.on("ReceiveMessage", function (user, message) {
+        console.log("Mesaj alındı:", user, message); // 🟢 Konsola yaz
+        const li = document.createElement("li");
+        li.textContent = `${user}: ${message}`;
+        document.getElementById("messagesList").appendChild(li);
+    });
+    </script>
+</body>
+</html>
