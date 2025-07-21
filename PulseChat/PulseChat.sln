@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulseChat.API", "PulseChat.API\PulseChat.API.csproj", "{81E1FA3D-F436-4692-A233-5CFDACBAF295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulseChat.Domain", "PulseChat.Domain\PulseChat.Domain.csproj", "{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulseChat.Application", "PulseChat.Application\PulseChat.Application.csproj", "{63A1DE06-2F91-4942-BB85-F062852F7802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulseChat.Infrastructure", "PulseChat.Infrastructure\PulseChat.Infrastructure.csproj", "{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E42D2492-4D35-49D7-9B39-AEE8B5F3962B} = {E42D2492-4D35-49D7-9B39-AEE8B5F3962B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulseChat.Persistence", "PulseChat.Persistence\PulseChat.Persistence.csproj", "{E42D2492-4D35-49D7-9B39-AEE8B5F3962B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PulseChat.Tests", "PulseChat.Tests\PulseChat.Tests.csproj", "{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87323EAC-FFD3-496D-A328-B7B56DC4BD99}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E1FA3D-F436-4692-A233-5CFDACBAF295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E1FA3D-F436-4692-A233-5CFDACBAF295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E1FA3D-F436-4692-A233-5CFDACBAF295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E1FA3D-F436-4692-A233-5CFDACBAF295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A1DE06-2F91-4942-BB85-F062852F7802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A1DE06-2F91-4942-BB85-F062852F7802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A1DE06-2F91-4942-BB85-F062852F7802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A1DE06-2F91-4942-BB85-F062852F7802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42D2492-4D35-49D7-9B39-AEE8B5F3962B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42D2492-4D35-49D7-9B39-AEE8B5F3962B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42D2492-4D35-49D7-9B39-AEE8B5F3962B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42D2492-4D35-49D7-9B39-AEE8B5F3962B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

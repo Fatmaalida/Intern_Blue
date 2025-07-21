@@ -1,0 +1,11 @@
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_PulseChat.Tests
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_PulseChat.Tests
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\PulseChat.Tests.csproj.AssemblyReference.cache
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\MvcTestingAppManifest.json
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\PulseChat.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\PulseChat.Tests.AssemblyInfoInputs.cache
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\PulseChat.Tests.AssemblyInfo.cs
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\PulseChat.Tests.csproj.CoreCompileInputs.cache
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\PulseChat.Tests.dll
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\refint\PulseChat.Tests.dll
+C:\Users\fatos\OneDrive\Desktop\PulseChat\PulseChat.Tests\obj\Debug\net9.0\PulseChat.Tests.pdb

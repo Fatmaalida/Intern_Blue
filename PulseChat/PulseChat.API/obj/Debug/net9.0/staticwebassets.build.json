@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OHbeB5BtfgnC/Uul+lFfoxOU77Zb/f5AwcTNVxyMyu0=",
+  "Source": "PulseChat.API",
+  "BasePath": "_content/PulseChat.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

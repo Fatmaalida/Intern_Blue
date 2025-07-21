@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87323EAC-FFD3-496D-A328-B7B56DC4BD99}|Solution Items{87323EAC-FFD3-496D-A328-B7B56DC4BD99}|C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{87323EAC-FFD3-496D-A328-B7B56DC4BD99}|Solution Items{87323EAC-FFD3-496D-A328-B7B56DC4BD99}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}|PulseChat.Tests\\PulseChat.Tests.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.tests\\groupservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}|PulseChat.Tests\\PulseChat.Tests.csproj|solutionrelative:pulsechat.tests\\groupservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}|PulseChat.Infrastructure\\PulseChat.Infrastructure.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.infrastructure\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}|PulseChat.Infrastructure\\PulseChat.Infrastructure.csproj|solutionrelative:pulsechat.infrastructure\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\services\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\services\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}|PulseChat.Tests\\PulseChat.Tests.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.tests\\messageservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}|PulseChat.Tests\\PulseChat.Tests.csproj|solutionrelative:pulsechat.tests\\messageservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E1FA3D-F436-4692-A233-5CFDACBAF295}|PulseChat.API\\PulseChat.API.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.api\\pulsechat.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E1FA3D-F436-4692-A233-5CFDACBAF295}|PulseChat.API\\PulseChat.API.csproj|solutionrelative:pulsechat.api\\pulsechat.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}|PulseChat.Tests\\PulseChat.Tests.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}|PulseChat.Tests\\PulseChat.Tests.csproj|solutionrelative:pulsechat.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}|PulseChat.Tests\\PulseChat.Tests.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.tests\\pulsechat.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34E2F935-EFEB-4B0E-8EE6-E15EDB5A1194}|PulseChat.Tests\\PulseChat.Tests.csproj|solutionrelative:pulsechat.tests\\pulsechat.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}|PulseChat.Domain\\PulseChat.Domain.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.domain\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}|PulseChat.Domain\\PulseChat.Domain.csproj|solutionrelative:pulsechat.domain\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}|PulseChat.Infrastructure\\PulseChat.Infrastructure.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.infrastructure\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}|PulseChat.Infrastructure\\PulseChat.Infrastructure.csproj|solutionrelative:pulsechat.infrastructure\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}|PulseChat.Infrastructure\\PulseChat.Infrastructure.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.infrastructure\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBA1A4D-F6F8-4EDA-8B68-E9935C31F26E}|PulseChat.Infrastructure\\PulseChat.Infrastructure.csproj|solutionrelative:pulsechat.infrastructure\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\interfaces\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\dtos\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\dtos\\pagedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E1FA3D-F436-4692-A233-5CFDACBAF295}|PulseChat.API\\PulseChat.API.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E1FA3D-F436-4692-A233-5CFDACBAF295}|PulseChat.API\\PulseChat.API.csproj|solutionrelative:pulsechat.api\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\dtos\\messagesearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\dtos\\messagesearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}|PulseChat.Domain\\PulseChat.Domain.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6D7BDF-459C-4470-A874-1AD4B7F7E574}|PulseChat.Domain\\PulseChat.Domain.csproj|solutionrelative:pulsechat.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\dtos\\editmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\dtos\\editmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.application\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A1DE06-2F91-4942-BB85-F062852F7802}|PulseChat.Application\\PulseChat.Application.csproj|solutionrelative:pulsechat.application\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E1FA3D-F436-4692-A233-5CFDACBAF295}|PulseChat.API\\PulseChat.API.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E1FA3D-F436-4692-A233-5CFDACBAF295}|PulseChat.API\\PulseChat.API.csproj|solutionrelative:pulsechat.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E1FA3D-F436-4692-A233-5CFDACBAF295}|PulseChat.API\\PulseChat.API.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E1FA3D-F436-4692-A233-5CFDACBAF295}|PulseChat.API\\PulseChat.API.csproj|solutionrelative:pulsechat.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D2492-4D35-49D7-9B39-AEE8B5F3962B}|PulseChat.Persistence\\PulseChat.Persistence.csproj|c:\\users\\fatos\\onedrive\\desktop\\pulsechat\\pulsechat.persistence\\pulsechat.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E42D2492-4D35-49D7-9B39-AEE8B5F3962B}|PulseChat.Persistence\\PulseChat.Persistence.csproj|solutionrelative:pulsechat.persistence\\pulsechat.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-21T12:19:09.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.API\\PulseChat.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PulseChat.API\\PulseChat.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.API\\PulseChat.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "PulseChat.API\\PulseChat.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:53:04.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Domain\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "PulseChat.Domain\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Domain\\Entities\\Group.cs",
+              "RelativeToolTip": "PulseChat.Domain\\Entities\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:47:13.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PulseChat.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "PulseChat.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:38:52.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Tests\\MessageServiceTests.cs",
+              "RelativeDocumentMoniker": "PulseChat.Tests\\MessageServiceTests.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Tests\\MessageServiceTests.cs",
+              "RelativeToolTip": "PulseChat.Tests\\MessageServiceTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:40:29.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Tests\\GroupServiceTests.cs",
+              "RelativeDocumentMoniker": "PulseChat.Tests\\GroupServiceTests.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Tests\\GroupServiceTests.cs",
+              "RelativeToolTip": "PulseChat.Tests\\GroupServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:39:13.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\GroupDto.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\DTOs\\GroupDto.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\GroupDto.cs",
+              "RelativeToolTip": "PulseChat.Application\\DTOs\\GroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:34:52.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Infrastructure\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "PulseChat.Infrastructure\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Infrastructure\\Services\\GroupService.cs",
+              "RelativeToolTip": "PulseChat.Infrastructure\\Services\\GroupService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAzwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:33:02.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\Services\\IGroupService.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\Services\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\Services\\IGroupService.cs",
+              "RelativeToolTip": "PulseChat.Application\\Services\\IGroupService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:31:49.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PulseChat.Tests",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Tests\\PulseChat.Tests.csproj",
+              "RelativeDocumentMoniker": "PulseChat.Tests\\PulseChat.Tests.csproj",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Tests\\PulseChat.Tests.csproj",
+              "RelativeToolTip": "PulseChat.Tests\\PulseChat.Tests.csproj",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T11:25:12.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\Interfaces\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\Interfaces\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\Interfaces\\IMessageRepository.cs",
+              "RelativeToolTip": "PulseChat.Application\\Interfaces\\IMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:30:12.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PagedResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\PagedResultDto.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\DTOs\\PagedResultDto.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\PagedResultDto.cs",
+              "RelativeToolTip": "PulseChat.Application\\DTOs\\PagedResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:10:34.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\EditMessageDto.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\DTOs\\EditMessageDto.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\EditMessageDto.cs",
+              "RelativeToolTip": "PulseChat.Application\\DTOs\\EditMessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:14:04.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Infrastructure\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "PulseChat.Infrastructure\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Infrastructure\\Services\\MessageService.cs",
+              "RelativeToolTip": "PulseChat.Infrastructure\\Services\\MessageService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwGwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:27:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.API\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "PulseChat.API\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.API\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "PulseChat.API\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAzwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:50:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\Services\\MessageService.cs",
+              "RelativeToolTip": "PulseChat.Application\\Services\\MessageService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv3sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:24:43.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Infrastructure\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "PulseChat.Infrastructure\\Repositories\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Infrastructure\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "PulseChat.Infrastructure\\Repositories\\MessageRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:22:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MessageSearchRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\MessageSearchRequestDto.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\DTOs\\MessageSearchRequestDto.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\MessageSearchRequestDto.cs",
+              "RelativeToolTip": "PulseChat.Application\\DTOs\\MessageSearchRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T10:07:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\Services\\IMessageService.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\Services\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\Services\\IMessageService.cs",
+              "RelativeToolTip": "PulseChat.Application\\Services\\IMessageService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:45:57.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\MessageDto.cs",
+              "RelativeDocumentMoniker": "PulseChat.Application\\DTOs\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application\\DTOs\\MessageDto.cs",
+              "RelativeToolTip": "PulseChat.Application\\DTOs\\MessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:10:26.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "PulseChat.Domain\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "PulseChat.Domain\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:47:42.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "PulseChat.API\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "PulseChat.API\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:53:56.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.API\\Program.cs",
+              "RelativeDocumentMoniker": "PulseChat.API\\Program.cs",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.API\\Program.cs",
+              "RelativeToolTip": "PulseChat.API\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:10:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PulseChat.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Persistence\\PulseChat.Persistence.csproj",
+              "RelativeDocumentMoniker": "PulseChat.Persistence\\PulseChat.Persistence.csproj",
+              "ToolTip": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Persistence\\PulseChat.Persistence.csproj",
+              "RelativeToolTip": "PulseChat.Persistence\\PulseChat.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T10:55:08.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

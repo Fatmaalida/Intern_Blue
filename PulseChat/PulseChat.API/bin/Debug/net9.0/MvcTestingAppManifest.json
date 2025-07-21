@@ -1,0 +1,6 @@
+{
+  "PulseChat.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Application",
+  "PulseChat.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Domain",
+  "PulseChat.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Infrastructure",
+  "PulseChat.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\fatos\\OneDrive\\Desktop\\PulseChat\\PulseChat.Persistence"
+}

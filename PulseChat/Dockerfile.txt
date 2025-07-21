@@ -1,0 +1,22 @@
+# 1. Build aşaması
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /app
+
+COPY *.sln .
+COPY PulseChat.API/*.csproj ./PulseChat.API/
+COPY PulseChat.Application/*.csproj ./PulseChat.Application/
+COPY PulseChat.Domain/*.csproj ./PulseChat.Domain/
+COPY PulseChat.Infrastructure/*.csproj ./PulseChat.Infrastructure/
+
+RUN dotnet restore
+
+COPY . .
+WORKDIR /app/PulseChat.API
+RUN dotnet publish -c Release -o out
+
+# 2. Runtime aşaması
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+WORKDIR /app
+COPY --from=build /app/PulseChat.API/out ./
+
+ENTRYPOINT ["dotnet", "PulseChat.API.dll"]
